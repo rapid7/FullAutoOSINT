@@ -1,0 +1,14 @@
+---
+info:
+  title: Fullautoosint
+  x-cortex-git:
+    github:
+      alias: r7org
+      repository: rapid7/FullAutoOSINT
+  x-cortex-tag: fullautoosint
+  x-cortex-type: service
+  x-cortex-domain-parents:
+  - tag: managed-services
+openapi: 3.0.1
+servers:
+- url: "/"
