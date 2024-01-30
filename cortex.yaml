@@ -8,7 +8,7 @@ info:
   x-cortex-tag: fullautoosint
   x-cortex-type: service
   x-cortex-domain-parents:
-  - tag: managed-services
+  - tag: mdr
 openapi: 3.0.1
 servers:
 - url: "/"
