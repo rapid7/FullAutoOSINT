@@ -8,7 +8,9 @@ info:
   x-cortex-tag: fullautoosint
   x-cortex-type: service
   x-cortex-domain-parents:
-  - tag: mdr
+  - tag: pentesting
+  x-cortex-groups:
+  - exposure:internal-ship
 openapi: 3.0.1
 servers:
 - url: "/"
